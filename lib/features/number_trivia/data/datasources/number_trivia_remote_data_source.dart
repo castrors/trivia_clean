@@ -1,4 +1,4 @@
-import 'package:trivia_clean/features/number_trivia/data/models/number_trivia_model.dart';
+import '../models/number_trivia_model.dart';
 
 abstract class NumberTriviaRemoteDataSource {
   /// Class the http://numbersapi.com/{number} endpoint.
